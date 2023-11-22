@@ -24,4 +24,4 @@ yarn-error.log*
 
 
 # environemnet variable
-.environemnet
+.env
